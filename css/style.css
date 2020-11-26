@@ -12,3 +12,10 @@
     #ffcc70 100%
   );
 }
+
+.progress60 {
+  width: 60%
+}
+.progress30 {
+  width: 30%
+}
