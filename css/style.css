@@ -1,3 +1,6 @@
+html{
+  scroll-behavior: smooth;
+}
 .avatar {
   width: 200px;
   border-radius: 50%;
